@@ -13,5 +13,5 @@ variable "aws_profile" {
 
 variable "env" {
   type        = string
-  default = "prod"
+  default = "dev"
 }
